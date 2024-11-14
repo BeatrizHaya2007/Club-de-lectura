@@ -1,0 +1,6 @@
+body
+    {background-color: rgb(168, 255, 255);}
+h3
+    {color:rgb(0, 0, 255); font-size: 25px; text-align:center ; text-decoration: underline; text-shadow: 5px, 5px, 2px, grey;}
+p
+    {font-size: 14px;text-align: justify;color: rgb(40, 40, 40);font-family: Arial; text-indent: 1cm;}

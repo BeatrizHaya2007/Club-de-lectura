@@ -1,0 +1,43 @@
+.boton{
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px 0px;
+    border: 10px;
+    border-color:black;
+    border-style: double;
+    text-align: center;
+    width: calc((100%/3) - 25px);
+    text-align: center;
+    background-color: blue;
+    font-size: 20px;
+}
+.boton:hover{
+    background-color: rgb(113, 113, 253);
+    color: rgb(162, 250, 151);
+}
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: calc(-1*(3cm+5px));
+    margin-right: calc(-1*(3cm+5px));
+    padding: -1cm;
+
+}
+body{
+    
+    background-size: 2cm;
+    background-color: aquamarine;
+
+}
+header{
+    color: brown;
+}
+article{
+    background-color: darkgray;
+}
+a{
+    color: antiquewhite;
+}
+a:hover{
+    color: rgb(245, 169, 70);
+}
