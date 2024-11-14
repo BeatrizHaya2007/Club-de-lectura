@@ -6,3 +6,8 @@
         <link rel="stylesheet" type="text/css" href="">
     </head>
     <body>
+        <footer><!---aqui van nuestras paginas web--->
+            <a href="angela/INDEX.HTML.html">Angela Tabares</a>
+
+        </footer>
+    </body>
