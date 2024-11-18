@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Club de Lectura</title>
+        <link rel="icon" type="image/x-icon" href="">
+        <link rel="stylesheet" type="text/css" href="css/css index.css">
+    </head>
+    <body>
+        <header>
+            <div class="boton"><a href=""><img src="img/casa.png"></a></div>
+            <div class="boton"><a href="">Primaria</a></div>
+            <div class="boton"><a href="">Secundaria</a></div>
+            <div class="boton"><a href="">Otros</a></div>
+            <div class="boton"><a href="">Reseñas</a></div>
+        
+        </header>
+        <!--aqui va la pagina principal-->
