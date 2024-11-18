@@ -15,3 +15,37 @@
         
         </header>
         <!--aqui va la pagina principal-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Club de Lectura</title>
+        <link rel="icon" type="image/x-icon" href="">
+        <link rel="stylesheet" type="text/css" href="css/css index.css">
+    </head>
+    <body>
+        <header>
+            <div class="boton"><a href=""><img src="img/casa.png"></a></div>
+            <div class="boton"><a href="">Primaria</a></div>
+            <div class="boton"><a href="">Secundaria</a></div>
+            <div class="boton"><a href="">Otros</a></div>
+            <div class="boton"><a href="">Reseñas</a></div>
+        
+        </header>
+        <!--aqui va la pagina principal-->
+        <h1>Libros de primaria</h1>
+        <p> La primaria esta hecha para disfutar de los libros y para disfrutar de la lectura. En esta etapa los libros son nuevas aventuras a las que te adentras y disfrutas, por eso nos centraremos en lecturas no tan obligatorias como las que secundaria.</p>
+        <h2>La saga: el diario de Greg</h2>
+        <p>Esta saga trata sobre Greg quien relata su vida a través de un diario personal. La serie es conocida por su estilo humorístico y su formato de diario ilustrado, que combina texto con dibujos simples.<br> Dentros de esta saga los primeros libros son:</p>
+        <br>
+        <table>
+            <tr>
+                <td><h3> El diario de Greg</h3></td>
+                <td><h4> Autor</h4></td>
+                <td>Jeff Kinney</td>
+            </tr>
+            <tr>
+                <td><img src="https://th.bing.com/th/id/OIP.yg8XzSt_rG1yEBQhsKGSuAHaLD?rs=1&pid=ImgDetMain"></td>
+                <td><h4>Resumen</h4></td>
+                <td>Greg Heffley es un niño de secundaria que enfrenta los retos típicos de la adolescencia, como la escuela, las relaciones con amigos y su familia. La historia comienza con Greg tratando de encontrar su lugar en el mundo, mientras lidia con su mejor amigo, Rowley Jefferson, quien es más inmaduro que él. Además, Greg enfrenta la difícil convivencia con su hermano mayor, Rodrick, y su hermano pequeño, Manny. El diario de Greg está lleno de situaciones embarazosas, malentendidos y la constante lucha por encajar.</td>
+            </tr>
+            </table>
