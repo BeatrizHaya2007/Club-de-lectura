@@ -28,3 +28,13 @@ footer{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
+.boton{
+    display:inline-block;
+    width: calc((100%/3) - 25px);
+    background-color: darkkhaki;
+    border-style: outset;
+    border-radius: 10px;
+    text-align: center;
+    color:black;
+    padding: 10px 0px;
+}
