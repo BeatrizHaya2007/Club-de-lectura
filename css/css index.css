@@ -29,7 +29,7 @@ footer{
     color: rgb(255, 255, 255);
 }
 .boton{
-    display:inline-block;
+    display:inline-block ;
     width: calc((100%/3) - 25px);
     background-color: darkkhaki;
     border-style: outset;
