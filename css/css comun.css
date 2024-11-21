@@ -49,6 +49,7 @@ img{
     border: 1px;
     border-radius: 10px;
     border-color: rgb(0, 0, 0);
+    width: 200px;
 }
 .boton{
     display:inline-block;
