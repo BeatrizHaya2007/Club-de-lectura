@@ -50,3 +50,22 @@ img{
     border-radius: 10px;
     border-color: rgb(0, 0, 0);
 }
+.boton{
+    display:inline-block;
+    width: calc((100%/5) - 25px);
+    background-color: rgb(255, 85, 227);
+    border-style: outset;
+    border-radius: 10px;
+    text-align: center;
+    color:black;
+    padding: 10px 0px;
+    font: 100px;
+}
+#imagencasa{
+    width: 100px;
+    height: 100px;
+}
+#casita{
+    width: 100px;
+    height: 100px;
+}
