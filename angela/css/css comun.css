@@ -49,4 +49,24 @@ img{
     border: 1px;
     border-radius: 10px;
     border-color: rgb(0, 0, 0);
+    width: 200px;
+}
+.boton{
+    display:inline-block;
+    width: calc((100%/5) - 20px);
+    background-color: rgb(0, 0, 255);
+    border-style: outset;
+    border-radius: 10px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    padding: 10px 0px;
+    font: 100px;
+}
+#imagencasa{
+    width: 100px;
+    height: 100px;
+}
+#casita{
+    width: 100px;
+    height: 100px;
 }
