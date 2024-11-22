@@ -53,12 +53,12 @@ img{
 }
 .boton{
     display:inline-block;
-    width: calc((100%/5) - 25px);
-    background-color: rgb(255, 85, 227);
+    width: calc((100%/5) - 20px);
+    background-color: rgb(0, 0, 255);
     border-style: outset;
     border-radius: 10px;
     text-align: center;
-    color:black;
+    color:rgb(255, 255, 255);
     padding: 10px 0px;
     font: 100px;
 }
