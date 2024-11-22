@@ -60,5 +60,13 @@ iframe{
     border-color: rgb(255, 0, 0);
     border-radius: 20px ;
 }
+#imagencasa{
+    width: 100px;
+    height: 100px;
+}
+#casita{
+    width: 100px;
+    height: 100px;
+}
 
 
