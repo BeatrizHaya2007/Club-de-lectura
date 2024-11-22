@@ -64,3 +64,16 @@ img{
     width: 100px;
     height: 100px;
 }
+a:link{
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+a:visited{
+    color:rgb(255, 0, 0);
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:hover{
+    background-color:rgb(250, 161, 245);
+    color:rgb(182, 0, 255)
+}
