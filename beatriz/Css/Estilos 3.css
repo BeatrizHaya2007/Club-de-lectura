@@ -12,7 +12,7 @@ h1 {
 .boton{
     display:inline-block;
     width: calc((100%/3) - 25px);
-    background-color: darkkhaki;
+    background-color: rgb(0, 0, 255);
     border-style: outset;
     border-radius: 10px;
     text-align: center;
