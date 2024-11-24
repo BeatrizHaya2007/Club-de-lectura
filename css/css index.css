@@ -30,7 +30,9 @@ footer{
     text-align: center;
     width: calc(100% + 166px);
     margin-left: -3cm;
+    margin-bottom: -3cm;
     padding: 30px;
+    padding-bottom: 3cm;
 }
 .boton{
     display:inline-block;
