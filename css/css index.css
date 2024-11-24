@@ -36,6 +36,7 @@ footer{
     margin-bottom: -3cm;
     padding: 30px;
     padding-bottom: 3cm;
+    cursor: crosshair;
 }
 .boton{
     display:inline-block;
