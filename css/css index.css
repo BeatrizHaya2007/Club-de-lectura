@@ -2,8 +2,6 @@ body{
     background-color: rgb(250, 190, 242);
     background-image: linear-gradient(rgb(232, 199, 245), rgb(202, 129, 250), rgb(182, 88, 245));
     margin: 3cm;
-    text-indent: 1cm;
-
 }
 h1{
     color: rgb(255, 0, 200);
