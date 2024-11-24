@@ -1,7 +1,7 @@
 body{
     background-color: rgb(250, 190, 242);
     background-image: linear-gradient(rgb(232, 199, 245), rgb(202, 129, 250), rgb(182, 88, 245));
-    margin: 2cm;
+    margin: 3cm;
 
 }
 h1{
@@ -32,14 +32,13 @@ footer{
 }
 .boton{
     display:inline-block;
-    width: calc((100%/5) - 20px);
+    width: calc(100%/5);
     background-color: rgb(255, 85, 227);
     border-style: outset;
     border-radius: 10px;
     text-align: center;
-    color:black;
-    padding: 10px 0px;
-    font: 100px;
+    color: black;
+    padding: 10px;
 }
 #imagencasa{
     width: 100px;
@@ -49,8 +48,9 @@ footer{
     width: 100px;
     height: 100px;
 }
-
-#principal{font-size: 35px;}
+#principal{
+    font-size: 35px;
+}
 a:link{
     color:rgb(0, 0, 0);
     font-weight: bold;
